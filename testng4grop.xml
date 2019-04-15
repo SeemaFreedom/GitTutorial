@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name= "Seema suit2">
+  <groups>
+  <run>
+  <include name="Smoke"/>
+  </run>
+  </groups>
+   <test name = "Regression">
+      <classes>
+      		<class name ="TestPackage.day1"/>
+      		<class name ="TestPackage.day2"/>   
+      		<class name ="TestPackage.day3"/>
+      </classes>
+   </test>
+</suite>
