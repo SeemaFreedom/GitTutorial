@@ -10,11 +10,13 @@ public class day1{
   {
     System.out.println("run it 7 times");
     System.out.println("ram ji");
+    System.out.println("Branching");
   }
   @Test
   public void Method2()
   {
 	  System.out.println("Bye");
+	  System.out.println("Branching changes done");
 	  
   }
 }
