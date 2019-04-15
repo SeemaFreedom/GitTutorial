@@ -9,6 +9,7 @@ public class day1{
   public void Demo()
   {
     System.out.println("run it 7 times");
+    System.out.println("ram ji");
   }
   @Test
   public void Method2()
